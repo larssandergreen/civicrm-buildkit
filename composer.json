@@ -19,7 +19,9 @@
     "bin-dir": "bin",
     "allow-plugins": {
       "civicrm/composer-downloads-plugin": true,
-      "civicrm/composer-compile-plugin": true
+      "civicrm/composer-compile-plugin": true,
+      "civicrm/civicrm-asset-plugin": true,
+      "composer/installers": true,
     }
   },
   "require": {
